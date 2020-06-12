@@ -18,7 +18,8 @@ There are three packages in src folder:
 
          3.StudentDao.java:- 
                             In this class there are two methods insert and show, with insert method the registration of student is     performed and store the result in the database (in this project i give the table name student_dashboard),second method is show method used to retrieve the information about student.
-
+                            
+![dashboard(main)](https://user-images.githubusercontent.com/66818761/84486222-b6dc3200-acba-11ea-9589-0e78437c4d9f.png)
 # frame :- In frame package there are three classes-
 
            1.dashboard.java: 
@@ -34,6 +35,6 @@ There are three packages in src folder:
            
            
            
-![dashboard(main)](https://user-images.githubusercontent.com/66818761/84486222-b6dc3200-acba-11ea-9589-0e78437c4d9f.png)
+
            
            
