@@ -11,7 +11,7 @@ There are three packages in src folder:
 
 # Dao :- In Dao package there are three classes -
 
-         1.Dao.java:- In this class there is method Connection which return the Connection object used to connect with database using  jdbc
+         1.Dao.java:- In this class there is method Connection which return the Connection object used to connect with database using  jdbc.
          
          2.FacultyDao.java:-
                             In this class there are two methods insert and show, with insert method the registration of faculty is    performed and store the result in the database (in this project i give the table name faculty_dashboard),second method is show method used to retrieve the information about faculty.
@@ -34,6 +34,6 @@ There are three packages in src folder:
            
            
            
-           
+![dashboard(main)](https://user-images.githubusercontent.com/66818761/84486222-b6dc3200-acba-11ea-9589-0e78437c4d9f.png)
            
            
