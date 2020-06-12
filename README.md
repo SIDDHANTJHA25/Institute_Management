@@ -20,9 +20,11 @@ There are three packages in src folder:
                             In this class there are two methods insert and show, with insert method the registration of student is     performed and store the result in the database (in this project i give the table name student_dashboard),second method is show method used to retrieve the information about student.
 
  # Table_Schema:
+faculty_dashboard
 
 ![faculty_dashboard](https://user-images.githubusercontent.com/66818761/84489031-b2b21380-acbe-11ea-942b-c82b8cb74270.png)
 
+student_dashboard
 ![student_dashboard](https://user-images.githubusercontent.com/66818761/84489130-d4ab9600-acbe-11ea-9f7b-0f552d3b44e3.png)
 
  
@@ -34,7 +36,7 @@ There are three packages in src folder:
            2.Dashboard1.java:
                             This is the page of student registration in this class the three component of student_details,details are in card layout from which we can show the student details.
            
-           3.Dashboard1.java: 
+           3.Dashboard2.java: 
                             This is the page of faculty registration in this class the three component of faculty_details,details   are in card layout from which we can show the faculty details.
 
 # dashboard.java(output):
